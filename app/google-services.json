@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340201659875",
+    "project_id": "qnected-a01a0",
+    "storage_bucket": "qnected-a01a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340201659875:android:6d85cc1e5c4ee4592354d6",
+        "android_client_info": {
+          "package_name": "com.example.qnected"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTNkSHMinWOENoRQ12thkQxNh0SYjo6Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340201659875:android:e60472eb9379b9632354d6",
+        "android_client_info": {
+          "package_name": "com.example.qnectedlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTNkSHMinWOENoRQ12thkQxNh0SYjo6Fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
